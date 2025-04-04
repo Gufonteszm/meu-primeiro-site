@@ -2,8 +2,8 @@
 ## primeiro teste
 https://gufonteszm.github.io/meu-primeiro-site/
 ## CSS interno
-https://gufonteszm.github.io/meu-primeiro-site/cssinternoexterno/indexinterno.html
+https://gufonteszm.github.io/meu-primeiro-site/css/indexinterno.html
 ## CSS externo
-https://gufonteszm.github.io/meu-primeiro-site/cssinternoexterno/indexexterno.html
+https://gufonteszm.github.io/meu-primeiro-site/css/indexexterno.html
 ## CSS inline
-https://gufonteszm.github.io/meu-primeiro-site/cssinternoexterno/indexinline.html
+https://gufonteszm.github.io/meu-primeiro-site/css/indexinline.html
